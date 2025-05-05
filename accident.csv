@@ -1,0 +1,11 @@
+Weather,Road_Condition,Speed_Limit,Severity
+Clear,Dry,60,1
+Rain,Wet,50,2
+Snow,Snowy,30,3
+Clear,Dry,70,1
+Fog,Dry,40,2
+Rain,Wet,60,2
+Snow,Icy,20,3
+Clear,Wet,55,1
+Fog,Wet,45,2
+Clear,Dry,65,1
